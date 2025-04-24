@@ -5,8 +5,8 @@ import os
 import wave
 import time
 
-CERT_FILE = r'C:\Users\jahnv\OneDrive\Desktop\cnproj\certs\server.crt'
-KEY_FILE = r'C:\Users\jahnv\OneDrive\Desktop\cnproj\certs\server.key'
+CERT_FILE = r'C:\Users\ishan\Desktop\cn project\cnproj\certs\server.crt'
+KEY_FILE = r'C:\Users\ishan\Desktop\cn project\cnproj\certs\server.key'
 
 HOST = '0.0.0.0'
 CONTROL_PORT = 8000
